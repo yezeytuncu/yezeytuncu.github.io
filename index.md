@@ -32,10 +32,9 @@ symbolic computation, and building tools that support mathematical reasoning and
 - [arXiv](https://arxiv.org/search/math?searchtype=author&query=Zeytuncu,+Y)
 - [Google Scholar](https://scholar.google.com/citations?user=LMNSwU8AAAAJ&hl=en)
 - [LinkedIn](https://www.linkedin.com/in/yezeytuncu/)
+- [GitHub](https://github.com/yezeytuncu)
 
 
 ---
 
-> I use GitHub as a workshop for long-term projects.  
-> Most work begins private and becomes public when it supports research,
-> teaching, or community use.
+> I use GitHub as a workshop for long-term projects.  Most work begins private and becomes public when it supports research, teaching, or community use.
