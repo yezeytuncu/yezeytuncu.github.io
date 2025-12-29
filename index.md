@@ -1,10 +1,7 @@
 ---
 layout: default
-title: Yunus Zeytuncu
 ---
 
-
-# Yunus Zeytuncu
 
 Mathematician | Educator | Builder  
 Associate Dean & Professor of Mathematics  
