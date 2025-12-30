@@ -27,7 +27,7 @@ symbolic computation, and building tools that support mathematical reasoning and
 ---
 
 
-## Profiles
+## Research & Professional Profiles
 
 - [arXiv](https://arxiv.org/search/math?searchtype=author&query=Zeytuncu,+Y)
 - [Google Scholar](https://scholar.google.com/citations?user=LMNSwU8AAAAJ&hl=en)
