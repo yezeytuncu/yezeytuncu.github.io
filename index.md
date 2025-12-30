@@ -37,5 +37,3 @@ symbolic computation, and building tools that support mathematical reasoning and
 
 
 ---
-
-> I use GitHub as a workshop for long-term projects.  Most work begins private and becomes public when it supports research, teaching, or community use.
