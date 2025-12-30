@@ -21,7 +21,7 @@ symbolic computation, and building tools that support mathematical reasoning and
 - **ML Toolbox** — Reusable utilities for reproducible ML experimentation and mathematical foundations of ML
 - **Lean & Formalization** — Integrating proof assistants into undergraduate mathematics  
 - **Programs** — [REU Site in Mathematical Analysis and Applications](https://sites.google.com/a/umich.edu/math-reu/), [Polymath Jr.](https://geometrynyc.wixsite.com/polymathreu), [C4ME](https://sites.google.com/umich.edu/c4me), [Math Corps @ Dearborn](https://sites.google.com/umich.edu/c4me/math-corps?authuser=0), and [A2PSA](https://www.a2psa.com/home)
-- **Apps** - [4OPS](https://apps.apple.com/app/4ops/id6443661577), arithmetic reasoning game and dataset for machine learning research  
+- **Apps** — [4OPS](https://apps.apple.com/app/4ops/id6443661577), an arithmetic reasoning game and a dataset for machine learning research  
 
 
 ---
