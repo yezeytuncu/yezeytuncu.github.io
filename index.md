@@ -37,3 +37,5 @@ symbolic computation, and building tools that support mathematical reasoning and
 
 
 ---
+## Recent Talks
+- [SIAM AM 2026 Cleveland](https://docs.google.com/presentation/d/1xUXgvgNq8j6eqnA94zkpXEW-ULYfyoo5/edit?usp=sharing&ouid=108530112260992836596&rtpof=true&sd=true)
