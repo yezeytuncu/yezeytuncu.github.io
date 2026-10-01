@@ -4,7 +4,8 @@ layout: default
 
 
 Mathematician | Educator | Builder  
-Associate Dean & Professor of Mathematics  
+Interim Vice Provost for Research 
+Professor of Mathematics  
 University of Michigan–Dearborn
 
 ---
@@ -14,12 +15,12 @@ My interests include complex analysis, harmonic analysis, operator theory, algeb
 symbolic computation, and building tools that support mathematical reasoning and learning.
 
 ---
-
-## Current Focus
+## Recent Projects
+<--!
 
 - **Several Complex Variables** — Spectrum of Kohn Laplacian on CR manifolds  
 - **ML Toolbox** — Reusable utilities for reproducible ML experimentation and mathematical foundations of ML
-- **Lean & Formalization** — Integrating proof assistants into undergraduate mathematics  
+- **Lean & Formalization** — Integrating proof assistants into undergraduate mathematics  -->
 - **Programs** — [REU Site in Mathematical Analysis and Applications](https://sites.google.com/a/umich.edu/math-reu/), [Polymath Jr.](https://geometrynyc.wixsite.com/polymathreu), [C4ME](https://sites.google.com/umich.edu/c4me), [Math Corps @ Dearborn](https://sites.google.com/umich.edu/c4me/math-corps?authuser=0), and [A2PSA](https://www.a2psa.com/home)
 - **Apps** — [4OPS](https://apps.apple.com/app/4ops/id6443661577), an arithmetic reasoning game and a dataset for machine learning research  
 
