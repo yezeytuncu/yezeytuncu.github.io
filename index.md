@@ -16,7 +16,7 @@ symbolic computation, and building tools that support mathematical reasoning and
 
 ---
 ## Recent Projects
-<--!
+<!--
 
 - **Several Complex Variables** — Spectrum of Kohn Laplacian on CR manifolds  
 - **ML Toolbox** — Reusable utilities for reproducible ML experimentation and mathematical foundations of ML
