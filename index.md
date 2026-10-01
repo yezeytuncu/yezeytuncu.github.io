@@ -4,7 +4,7 @@ layout: default
 
 
 Mathematician | Educator | Builder  
-Interim Vice Provost for Research 
+Interim Vice Provost for Research <br>
 Professor of Mathematics  
 University of Michigan–Dearborn
 
